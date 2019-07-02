@@ -14,7 +14,7 @@ master branch.
 | Key binding | Description          |
 |-------------+----------------------|
 | ~SPC SPC~   | Execute an action    |
-| ~SPC TAB~   | Last buffer          |
+| ~B~         | Last buffer          |
 | ~SPC !~     | Open terminal window |
 | ~SPC '~     | Open terminal window |
 | ~SPC *~     | Show usages          |

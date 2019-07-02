@@ -3,8 +3,8 @@ nnoremap <leader><Space>    :action GotoAction<CR>
 vnoremap <leader><Space>    <Esc>:action GotoAction<CR>
 
 " Focus last buffer
-nnoremap <leader><tab>    :action VimFilePrevious<CR>
-vnoremap <leader><tab>    <Esc>:action VimFilePrevious<CR>
+nnoremap <B>    :action VimFilePrevious<CR>
+vnoremap <B>    <Esc>:action VimFilePrevious<CR>
 
 " Open the terminal window (use :! for a single shell cmd)
 nnoremap <leader>!    :action Terminal.OpenInTerminal<CR>
